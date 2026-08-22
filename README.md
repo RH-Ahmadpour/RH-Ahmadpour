@@ -1,5 +1,5 @@
 
-# Hi, I'm Reyhaneh 👋
+# Hi, I'm RH 👋
 
 🎓 PhD Student in Computer Engineering  
 🔐 Interested in Cybersecurity, Artificial Intelligence, and Digital Twins  
